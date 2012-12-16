@@ -1,0 +1,6 @@
+http://qconlondon.com/london-2009/presentation/Null+References:+The+Billion+Dollar+Mistake
+
+http://docs.eiffel.com/sites/docs.eiffel.com/files/void-safe-eiffel.pdf
+http://doc.eiffel.com/book/method/void-safe-programming-eiffel
+http://docs.eiffel.com/book/method/creating-new-void-safe-project
+http://doc.eiffel.com/book/eiffel-compatibility-options
